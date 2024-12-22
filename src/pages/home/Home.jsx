@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Movies from "../../components/movies/Movies";
 import { request } from "../../api";
-import { Carousel } from "../../components/Swiper/Carousel";
+import { Carousel } from "../../components/Carousel/Carousel";
 
 const Home = () => {
   const [data, setData] = useState(null);

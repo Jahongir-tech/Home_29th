@@ -4,7 +4,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 import "swiper/css";
 import "swiper/css/navigation";
-import "../swiper/Swiper.css";
+import "../Carousel/Swiper.css";
 
 import { Navigation } from "swiper/modules";
 import { Link } from "react-router-dom";
